@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a full implementation of an ecommerce shopping cart aplication example with React-Redux in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
